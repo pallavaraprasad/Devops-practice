@@ -1,0 +1,20 @@
+ssh -i Keypair.pem ubuntu@54.234.166.60
+
+vi Docker-installation.sh  scripting file
+
+
+[#!/bin/bash]  : scripting example
+
+
+Docker
+
+token git ssh : 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
+
+…or create a new repository on the command line
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pallavaraprasad/Devops-practice.git
+git push -u origin main
