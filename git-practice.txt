@@ -12,9 +12,13 @@ token git ssh : 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
 
 …or create a new repository on the command line
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/pallavaraprasad/Devops-practice.git
-git push -u origin main
+git init                           - to intialise the new repository
+
+git add README.md                   - adds a change in the working directory to the staging area 
+
+git commit -m "first commit"         - the snapshot commit change
+
+git branch -M main                    - create new branch and know the branch name
+
+git push -u origin main               - push code local to central 
+
