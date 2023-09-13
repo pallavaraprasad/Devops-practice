@@ -8,7 +8,7 @@ vi Docker-installation.sh  scripting file
 
 Docker
 
-token git ssh : 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
+token git  http : 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  
 
 …or create a new repository on the command line
 
