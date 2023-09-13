@@ -1,4 +1,4 @@
-ssh -i Keypair.pem ubuntu@54.234.166.60
+ssh -i mykeypair.pem ubuntu@54.175.217.30
 
 vi Docker-installation.sh  scripting file
 
